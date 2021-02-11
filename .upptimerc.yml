@@ -14,8 +14,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/garage44/pyrite/main/public/logo.png
   name: Pyrite Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Pyrite uptime monitor"
+  introMessage: Experiencing service failure? Just file an issue here and the royal we will take a look at it.
   navbar:
     - title: Status
       href: /
