@@ -7,7 +7,8 @@ sites:
     url: https://beta.pyrite.video
   - name: Pyrite Deployment
     url: https://pyrite.video/deployment/upload
-    
+assignees:
+  - jvanveen  
 status-website:
   cname: uptime.pyrite.video
   # Uncomment the following line if you don't have a custom domain and add your repo name
